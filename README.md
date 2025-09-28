@@ -40,8 +40,6 @@ This project is a simple simulation of a ransomware attack using Python. It cons
     ```bash
     git clone https://github.com/mohammed-albareda/Python-C2-Ransomware-Sim.git
     cd Python-C2-Ransomware-Sim
-    ```
-    *(Replace `mohammed-albareda` with your actual GitHub username if different. )*
 
 2.  **Install the required libraries:**
     ```bash
